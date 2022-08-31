@@ -1,6 +1,9 @@
 ngx-cron-editor
 ===
 
+Legacy repo, no longer in use.
+
+===
 An Angular 8 component for building cron expressions graphically. It is meant
 to be used in reactive forms and support Angular Material Design styling.
  
